@@ -1,0 +1,12 @@
+<resources>
+    <style name="main" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:navigationBarColor">@color/Sea_Blue</item>
+        <item name="colorPrimary">@color/Sea_Blue</item>
+        <item name="colorControlActivated">@color/dark_grey</item>
+    </style>
+
+    <style name="button_r" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/roundedbutton</item>
+    </style>
+
+</resources>
